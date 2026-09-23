@@ -1,5 +1,7 @@
 # 🇮🇳 India Rate Shock Lab
 
+**Live app : https://india-rate-shock-lab-fwdpvklxfdfxe4a9whurud.streamlit.app
+
 **How Do RBI Monetary Policy Changes Propagate Through Indian Equity Sectors?**
 
 A quantitative research project examining how the Reserve Bank of India's repo rate changes transmit across six NSE equity sector indices, using event-study methodology and rate-sensitivity regression.
