@@ -1,6 +1,6 @@
 # 🇮🇳 India Rate Shock Lab
 
-**Live app : https://india-rate-shock-lab-fwdpvklxfdfxe4a9whurud.streamlit.app
+Live app : https://india-rate-shock-lab-fwdpvklxfdfxe4a9whurud.streamlit.app
 
 **How Do RBI Monetary Policy Changes Propagate Through Indian Equity Sectors?**
 
